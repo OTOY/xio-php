@@ -6,7 +6,7 @@
  * @package  Services_XIO
  * @author   Mike Christopher <m@x.io>
  * @version  Release: 2.1.2
- * @license  http://creativecommons.org/licenses/MIT/MIT
+ * @license  http://creativecommons.org/licenses/MIT
  * @link     http://github.com/otoyinc/xio-php
  */
 
@@ -34,7 +34,7 @@ class Services_XIO_HttpException extends Services_XIO_Exception
    * @package  Services_XIO
    * @author   Mike Christopher <m@x.io>
    * @version  Release: 2.1.0
-   * @license  http://creativecommons.org/licenses/MIT/MIT
+   * @license  http://creativecommons.org/licenses/MIT
    * @link     http://github.com/otoyinc/xio-php
    * @access   private
    */

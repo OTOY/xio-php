@@ -6,7 +6,7 @@
  * @package  Services_XIO
  * @author   Mike Christopher <m@x.io>
  * @version  Release: 1.0.0
- * @license  http://creativecommons.org/licenses/MIT/MIT
+ * @license  http://creativecommons.org/licenses/MIT
  * @link     http://github.com/otoyinc/xio-php
  * @access   private
  */
@@ -27,7 +27,7 @@ spl_autoload_register('Services_XIO_autoload');
  * @package  Services_XIO
  * @author   Mike Christopher <m@x.io>
  * @version  Release: 1.0.0
- * @license  http://creativecommons.org/licenses/MIT/MIT
+ * @license  http://creativecommons.org/licenses/MIT
  * @link     http://github.com/otoyinc/xio-php
  */
 
